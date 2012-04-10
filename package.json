@@ -6,7 +6,7 @@
   "repository": { "type": "git", "url": "https://EhevuTov@github.com/EhevuTov/emailREST.git"},
   "private": true,
   "dependencies": {
-    "express": ">= 0.9.x",
+    "express": ">= 2.5.x",
     "jade": ">= 0.x.x",
     "mailer": ">= 0.6.x"
   },
