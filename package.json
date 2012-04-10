@@ -1,0 +1,15 @@
+{
+  "name": "emailREST",
+  "version": "0.0.1",
+  "description": "A RESTful API for an emailer",
+  "author": "James Gosnell <jamesgosnell@gmail.com>",
+  "repository": { "type": "git", "url": "https://EhevuTov@github.com/monetrix/monetrix-api.git"},
+  "private": true,
+  "dependencies": {
+    "express": ">= 0.9.x",
+    "mailer": ">= 0.6.x",
+  },
+  "devDependencies": {
+  },
+  "engine": "node >= 0.6.x"
+}
