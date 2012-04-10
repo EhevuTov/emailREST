@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A RESTful API for an emailer",
   "author": "James Gosnell <jamesgosnell@gmail.com>",
-  "repository": { "type": "git", "url": "https://EhevuTov@github.com/monetrix/monetrix-api.git"},
+  "repository": { "type": "git", "url": "https://EhevuTov@github.com/EhevuTov/emailREST.git"},
   "private": true,
   "dependencies": {
     "express": ">= 0.9.x",
